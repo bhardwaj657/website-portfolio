@@ -4,7 +4,7 @@ body{
     font-family: 'Noto Sans JP', sans-serif;
 }
 :root{
-    --primary-color: rgb(128, 190, 70)
+    --primary-color:  #3f000f
     ;
     /* --primary-color: #C026D3; */
     --dark-gray: #6b7280;
