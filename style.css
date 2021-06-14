@@ -49,7 +49,8 @@ hr{
 }
 
 .navigation{
-    background-color: var(--primary-color);
+    /* background-color: var(--primary-color); */
+    background-color: #FFE5B4;
     color: white;
     padding: 1rem;
     border-bottom-left-radius: 1rem;
