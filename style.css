@@ -4,11 +4,11 @@ body{
     font-family: 'Noto Sans JP', sans-serif;
 }
 :root{
-    --primary-color:  #DE7E5D
+    --primary-color:  #FFE5B4
     ;
     /* --primary-color: #C026D3; */
     --dark-gray: #6b7280;
-    --off-white: #FFE5B4;
+    --off-white: #f8e5c3;
     /* --off-white: #f3f4f6; */
 }
 hr{
@@ -53,7 +53,7 @@ hr{
 
 .navigation{
     /* background-color: var(--primary-color); */
-    background-color:  #DE7E5D;
+    background-color:  #FFE5B4;
     color: white;
     padding: 1rem;
     border-bottom-left-radius: 1rem;
